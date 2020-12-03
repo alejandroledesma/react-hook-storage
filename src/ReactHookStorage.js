@@ -1,5 +1,4 @@
-// eslint-disable-next-line no-unused-vars
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Storage from './Storage'
 
 const ReactHookStorage = (options) => {
