@@ -1,10 +1,10 @@
 
 [![npm version](https://img.shields.io/npm/v/react-hook-storage.svg?style=popout-square)](https://www.npmjs.com/package/react-hook-storage)
 [![npm downloads](https://img.shields.io/npm/dm/react-hook-storage.svg?style=popout-square)](https://www.npmjs.com/package/react-hook-storage)
-[![GitHub stars](https://img.shields.io/github/stars/waavi/react-hook-storage.svg?style=popout-square)](https://github.com/waavi/react-hook-storage)
-![Travis](https://travis-ci.com/Waavi/react-hook-storage.svg?token=Q9Sz1pTvqBgPz1SyHLk1&branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/Waavi/react-hook-storage/badge.svg?branch=master)](https://coveralls.io/github/Waavi/react-hook-storage?branch=master)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=popout-square)](https://github.com/waavi/react-hook-storage/raw/master/license.txt)
+[![GitHub stars](https://img.shields.io/github/stars/alejandroledesma/react-hook-storage.svg?style=popout-square)](https://github.com/alejandroledesma/react-hook-storage)
+![Travis](https://travis-ci.com/alejandroledesma/react-hook-storage.svg?token=Q9Sz1pTvqBgPz1SyHLk1&branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/alejandroledesma/react-hook-storage/badge.svg?branch=master)](https://coveralls.io/github/alejandroledesma/react-hook-storage?branch=master)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=popout-square)](https://github.com/alejandroledesma/react-hook-storage/raw/master/license.txt)
 
 <br>
 
