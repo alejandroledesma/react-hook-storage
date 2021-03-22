@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Storage from './Storage'
 
-const ReactHookStorage = (options) => {
+function ReactHookStorage(options) {
     /**
      * Initialize storage
      */

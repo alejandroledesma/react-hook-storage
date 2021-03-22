@@ -10,7 +10,7 @@ const defaultProps = {
  * Install react-hook-storage
  * @param {Object} options
  */
-export default (options = {}) => {
+function Initialize(options = {}) {
     if (typeof process !== 'undefined' && (process.server || process.SERVER_BUILD)) return
 
     const { key, storage, isSupported } = options
@@ -32,3 +32,5 @@ export default (options = {}) => {
 
     return new ReactHookStorage(props)
 }
+
+export default Initialize
